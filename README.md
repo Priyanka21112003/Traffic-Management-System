@@ -4,7 +4,7 @@ It is a Python-based Traffic Monitoring System designed to detect vehicles and r
 
 🇮🇳 Specially optimized for Indian number plates, with improved detection accuracy and localization.
 
-🧩 System Flow (Modules)
+## 🧩 System Flow (Modules)
 🎥 Input Module
 
 Accepts video feed or image frames from CCTV/webcam.
@@ -29,7 +29,7 @@ Saves extracted number plate data with timestamps into a .csv file or database.
 
 Stores cropped images of detected plates as visual evidence.
 
-🛠️ Features
+## 🛠️ Features
 📹 Real-time or image-based vehicle monitoring
 
 🔍 Accurate number plate detection & recognition (optimized for Indian fonts)
@@ -40,7 +40,7 @@ Stores cropped images of detected plates as visual evidence.
 
 💡 Simple, modular structure for easy upgrades
 
-📦 Tech Stack
+## 📦 Tech Stack
 Python
 
 OpenCV
@@ -51,7 +51,7 @@ NumPy, Pandas
 
 CSV for data storage
 
-🚀 How It Works
+## 🚀 How It Works
 Feed in a live video or image.
 
 Detect vehicles using OpenCV.
