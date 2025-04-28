@@ -29,6 +29,19 @@ Saves extracted number plate data with timestamps into a .csv file or database.
 
 Stores cropped images of detected plates as visual evidence.
 
+## Screenshots of the Dashboard
+Vehicle Count
+
+![Vehicle Count](https://github.com/user-attachments/assets/2e9db6ba-b7fa-4dcb-957e-434337af995f)
+
+Vehicle Speed
+
+![Vehicle Speed](https://github.com/user-attachments/assets/0036250b-f6eb-4217-b5f4-a12e4bb102a0)
+
+Vehicle Classification
+
+![Vehicle Classification](https://github.com/user-attachments/assets/31f927d2-c5b5-4dbd-8fc7-0978713f49c8)
+
 ## 🛠️ Features
 📹 Real-time or image-based vehicle monitoring
 
